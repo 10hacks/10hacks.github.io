@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About 10Hacks
+title: About
 permalink: /about/
 tags: about
 ---
