@@ -2,7 +2,7 @@
 layout:     post
 title:      Start of a New Journey
 date:       2016-01-22 19:00:00
-summary:    Kicking off this blog about the making of the 10Hacks book.
+summary:    OK, damnit. Time to start tracking this crazy journey...
 categories: blog
 ---
 
