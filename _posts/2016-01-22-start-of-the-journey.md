@@ -16,5 +16,3 @@ something of my own. Something great.
 
 OK, back to work. More to come.
 
-<a href="https://www.purewash.com/refund">t</a>
-
